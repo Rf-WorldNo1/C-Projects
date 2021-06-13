@@ -1,5 +1,7 @@
 #include <stdio.h>
 
+
+// takes average 
 int average(int num1, int num2, int num3, int num4);
 
 int main(void){
