@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// takes user age and tells if can vote or not
 int main(){
     int age;
     printf("Enter your Age: ");
