@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+// takes average of given score
 int main(void){
     int score1 = 25;
     int score2 = 50;
