@@ -1,6 +1,6 @@
 
 #include <stdio.h>
-
+// prints nums 1-75
 int main(void){
     int num = 0;
 
