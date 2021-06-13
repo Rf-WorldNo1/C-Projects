@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 int average(int num1, int num2, int num3);
-
+//takes score and tells average
 int main(void){
     int students = get_int("Enter the number of students : ");
 
