@@ -1,6 +1,6 @@
 #include <cs50.h>
 #include <stdio.h>
-
+//takes user age and tells if you can vote or not
 int main(void){
     int age;
 
