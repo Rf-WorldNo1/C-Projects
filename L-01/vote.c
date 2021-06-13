@@ -1,6 +1,6 @@
 #include <cs50.h>
 #include <stdio.h>
-
+// tells if user can vote or not
 int main(void){
     int age;
     age = get_int("Please enter your age : ");
