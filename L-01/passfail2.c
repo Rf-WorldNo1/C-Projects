@@ -1,6 +1,6 @@
 #include <cs50.h>
 #include <stdio.h>
-
+//Tells your result (pass-fail)
 int main(void){
     int score;
 
