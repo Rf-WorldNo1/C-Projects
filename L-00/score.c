@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//function takes Percentage and grades it
 int main(){
     int Percentage;
     printf("Enter your Percentage: ");
